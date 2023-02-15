@@ -5,7 +5,20 @@ Security Champions Playbook is a project started in preparation for the presenta
 
 
 # Who are the Security Champions?
-Security Champions are "active members of a team that may help to make decisions about when to engage the Security Team". They act as a core element of security assurance process within the product or service and hold the role of the Single Point of Contact (SPOC) within the team.
+Security Champions are "active members of a team that may help to make decisions about when to engage the Security Team". They act as a core element of security assurance process within the product or service and hold the role of the Single Pint of Contact (SPOC) within the team.
+The OWASP Security Champions program is an initiative that aims to improve software security by encouraging organizations to designate and empower security champions within their development teams. The program provides resources and support to help these security champions develop their skills and promote a security-first culture within their organization.
+
+#Here are some of the key features of the OWASP Security Champions program:
+
+ *   Training and Education: The program provides access to a range of training and education resources to help security champions develop their skills and knowledge of software security. This includes online courses, webinars, and other resources that are specifically tailored to the needs of security champions.
+
+ *   Community and Networking: The program connects security champions with a global community of peers, allowing them to share experiences, ideas, and best practices for improving software security.
+
+ *   Best Practices and Tools: The program provides guidance and best practices for integrating security into the software development process. This includes tools and resources to help security champions identify and address common vulnerabilities, as well as templates and guides for creating secure development processes.
+
+ *   Recognition and Support: The program provides recognition and support for security champions, helping to promote their efforts and acknowledge their contributions to improving software security within their organization.
+
+By empowering security champions within development teams, the OWASP Security Champions program helps to promote a culture of security awareness and responsibility within organizations, leading to more secure software and improved overall security posture.
 
 
 # What benefits do Champions bring to my company?
